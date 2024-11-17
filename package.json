@@ -4,7 +4,8 @@
   "description": "",
   "main": "calculator.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node calculator.js",  // Add this line to define the start script
+    "test": "jest"  // Update the test script to run jest
   },
   "keywords": [],
   "author": "",
