@@ -4,8 +4,8 @@
   "description": "",
   "main": "calculator.js",
   "scripts": {
-    "start": "node calculator.js",  
-    "test": "jest"  
+    "start": "node calculator.js",
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
